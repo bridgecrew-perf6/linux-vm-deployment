@@ -14,3 +14,5 @@ To setup develepment environment.
 3. run `rails db:create` and `rails db:reset`.
 
 we can find the app on `localhost:3000`
+
+In order to remove chatwoot, please follow (this.)[https://github.com/chatwoot/docs/issues/109]
